@@ -10,3 +10,6 @@
 <b> 2. Image Captioning :</b> <p>In this project,  a neural network architecture (CNN Encoder- RNN Decoder) is constructed which generates captions from images (text describing the image) automatically.  </p>
   
 The model is trained on Microsoft Common Objects in Context (MS COCO) dataset and the network is tested on the novel images.</p>
+
+<b> 3.SLAM: Object Tracing and Landmark Detection </b> <p> In this project, I implemented SLAM (Simultaneous Localization and Mapping) for a two dimensional world and tracked the locations of robot and andmarks in the real time based on the map of the environment created.</p>
+<p> To summarize, for simultaneous localization and mapping (SLAM), information is gathered from a robot's sensors and motions over time, and then use that gathered information about measurements and motion to re-construct a map of the world. </p>
