@@ -1,6 +1,6 @@
-# Computer-Vision-Nanodegree-Udacity
+# Computer Vision Projects
 
-## Projects covered under the Udacity's Computer Vision Nanodegree Curriculum:
+## Projects covered:
 
 
 <b> 1. Facial KeyPoints Detection:  </b> <p> In this project, knowledge of computer vision techniques and deep learning architectures are applied to build a facial keypoint detection system that takes in any image with faces, and predicts the location of 68 distinguishing keypoints on each face!</p>
