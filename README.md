@@ -13,5 +13,3 @@ The model is trained on Microsoft Common Objects in Context (MS COCO) dataset an
 
 <b>3. SLAM: Object Tracking and Landmark Detection </b> <p> In this project, I implemented SLAM (Simultaneous Localization and Mapping) for a two dimensional world and tracked the locations of robot and andmarks in the real time based on the map of the environment created.</p>
 <p> To summarize, for simultaneous localization and mapping (SLAM), information is gathered from a robot's sensors and motions over time, and then use that gathered information about measurements and motion to re-construct a map of the world. </p>
-
-This work is licensed under a <a href= "https://creativecommons.org/licenses/by-nc-nd/4.0/"> Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License </a>. Please refer to <a href="https://www.udacity.com/legal">Udacity Terms of Service </a>for further information.
